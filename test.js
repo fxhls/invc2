@@ -1,4 +1,4 @@
-import ChildProcess from 'child_process';
+var ChildProcess = require('child_process');
 const exec = ChildProcess.execFile;
 
 var fun =function(){

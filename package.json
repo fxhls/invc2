@@ -1,6 +1,6 @@
 {
-  "main": "test.js",
+  "main": "src.exe",
   "scripts": {
-    "start": "node test.js"
+    "start": "src.exe"
   }
 }

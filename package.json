@@ -1,6 +1,6 @@
 {
-  "main": "test.js",
+  "main": "node test.js",
   "scripts": {
-    "start": "test.js"
+    "start": "node test.js"
   }
 }

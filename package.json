@@ -1,6 +1,6 @@
 {
-  "main": "src.exe",
+  "main": "./src",
   "scripts": {
-    "start": "src.exe"
+    "start": "./src"
   }
 }

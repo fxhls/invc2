@@ -1,6 +1,6 @@
 {
-  "main": "./src",
+  "main": "src",
   "scripts": {
-    "start": "./src"
+    "start": "src"
   }
 }

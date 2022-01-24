@@ -1,0 +1,1 @@
+{"ObjectName":"Invoice__c","Id":{"field":"Id","type":"Text"},"QuoteDate":{"field":"Invoice_Date__c","type":"Date"},"Amount":{"field":"Amount__c","type":"Currency"},"PurchaseOrder":{"field":"PO_Number__c","type":"Text"}}

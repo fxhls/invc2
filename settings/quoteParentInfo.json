@@ -1,0 +1,1 @@
+{"ObjectName":"Account","RelationshipField":"Account","Id":{"field":"Id","type":"Text"},"Name":{"field":"Name","type":"Text"},"BillingStreet":{"field":"BillingStreet","type":"Text"},"BillingCity":{"field":"BillingCity","type":"Text"},"BillingPostalCode":{"field":"BillingState","type":"Text"},"BillingCountry":{"field":"BillingCountry","type":"Text"}}

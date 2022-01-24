@@ -1,0 +1,1 @@
+{"ObjectName":"Order_Line_Item__c","RelationshipField":"Invoice__c","UnitPrice":{"QuoteMapping":"UnitPrice","InvoiceMapping":"Unit_Price__c"},"TotalPrice":{"InvoiceMapping":"Total_Price__c","QuoteMapping":"TotalPrice"},"Quantity":{"InvoiceMapping":"Quantity__c","QuoteMapping":"Quantity"},"Description":{"InvoiceMapping":"Description__c","QuoteMapping":"Description__c"}}

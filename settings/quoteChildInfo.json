@@ -1,0 +1,27 @@
+{
+    "ObjectName": "OpportunityLineItems",
+    "Id": {
+        "field": "Id",
+        "type": "Text"
+    },
+    "UnitPrice": {
+        "field": "UnitPrice",
+        "type": "Decimal"
+    },
+    "TotalPrice": {
+        "field": "TotalPrice",
+        "type": "Currency"
+    },
+    "Description": {
+        "field": "Description__c",
+        "type": "Rich Text"
+    },
+    "Quantity": {
+        "field": "Quantity",
+        "type": "Decimal"
+    },
+    "Name": {
+        "field": "Name",
+        "type": "Text"
+    }
+}

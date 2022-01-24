@@ -1,0 +1,1 @@
+{"ObjectName":"Opportunity","ClosedValues":{"field":"StageName","type":"Text","BadValues":["Closed Won"]},"Id":{"field":"Id","type":"Text"},"QuoteDate":{"field":"CloseDate","type":"Date"},"Amount":{"field":"Amount","type":"Currency"},"PurchaseOrder":{"field":"StageName","type":"Text"},"Account":{"field":"AccountId","type":"Text"}}

@@ -1,0 +1,1 @@
+{"ObjectName":"Order_Line_Items__r","Id":{"field":"Id","type":"Text"},"UnitPrice":{"field":"Unit_Price__c","type":"Decimal"},"TotalPrice":{"field":"Total_Price__c","type":"Currency"},"Description":{"field":"Description__c","type":"Rich Text"},"Quantity":{"field":"Quantity__c","type":"Decimal"},"Name":{"field":"Name","type":"Text"}}

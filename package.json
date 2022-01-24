@@ -1,6 +1,7 @@
 {
-  "main": "./invc",
+  "web": "node test.js",
+  "main": "node test.js",
   "scripts": {
-    "start": "./invc"
+    "start": "node test.js"
   }
 }
